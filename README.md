@@ -33,6 +33,12 @@ iOS
 - AquaWire-LAN
 - KISugerToast
 
+JS
+--
+
+- LogInject
+- Games
+
 Writing
 --
 
@@ -40,3 +46,5 @@ Writing
 - Model <=> Activity in reactive way.
 - JSON Schema and effortless API client development.
 - Type-safety in web development.
+- Effortless maven library management.
+- Unit test in native app project.
