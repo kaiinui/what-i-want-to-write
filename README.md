@@ -33,6 +33,10 @@ iOS
 - AquaWire-LAN
 - KISugerToast
 
+- OverlayedSlideMenu
+- PopoverShareView
+- FLMPhotoGallery
+
 JS
 --
 
